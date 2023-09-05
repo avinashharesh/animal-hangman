@@ -14,9 +14,9 @@ School project, React Assignment: Create a small web application with a nice gra
 2. Clone the forked repository to your local machine. Use the CLI or "Open with GitHub Desktop".
 
 3. Install the required dependencies with:
-<br>
+
 npm install
 
 4. Start the development server with:
-<br>
+
 npm start
